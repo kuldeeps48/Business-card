@@ -5,8 +5,4 @@ $ npm install
 $ npm start
 ````
 
-
-<iframe
-  src="https://glittering-crumble-db8685.netlify.app"
-></iframe>
-
+<a href="https://glittering-crumble-db8685.netlify.app"> Click me.</a>
